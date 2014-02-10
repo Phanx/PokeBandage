@@ -1,5 +1,5 @@
 ## Interface: 50400
-## Version: 5.4.2.1
+## Version: 5.4.2.wowi:revision
 
 ## Title: PokéBandage
 ## Notes: Adds a button to the pet journal for using Battle Pet Bandages.
