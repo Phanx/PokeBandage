@@ -13,6 +13,6 @@
 ## X-CompatibleLocales: deDE, enUS, esES, esMX, frFR, itIT, ptBR, koKR, ruRU, zhCN, zhTW
 ## X-Website: http://www.wowinterface.com/downloads/info22735-PokeBandage
 ## X-Curse-Project-Name: pokebandage
-## X-WoWI-ID:
+## X-WoWI-ID: 22735
 
 Addon.lua
