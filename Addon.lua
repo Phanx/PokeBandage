@@ -160,7 +160,7 @@ loader:SetScript("OnEvent", function(self)
 
 	f:SetMotionScriptsWhileDisabled(true)
 	f:SetScript("OnEnter", f.UpdateTooltip)
-	f:SetScript("OnHide", GameTooltip_Hide)
+	f:SetScript("OnLeave", GameTooltip_Hide)
 
 	f:SetScript("OnDragStart", function(self)
 		if self.bagID and self.slotID then
