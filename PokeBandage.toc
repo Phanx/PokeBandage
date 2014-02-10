@@ -1,0 +1,18 @@
+## Interface: 50400
+## Version: 5.4.2.1
+
+## Title: PokéBandage
+## Notes: Adds a button to the pet journal for using Battle Pet Bandages.
+## Notes-deDE: Fügt eine Schaltfläche im Wildtierführer hinzu, um Kampfhaustierbandagen verzuwenden.
+## Notes-esES: Añade un botón en la guía de mascotas para usar las vendas de mascota de duelo.
+## Notes-esMX: Añade un botón de la guía de mascotas para usar las vendas de mascota de duelo.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-License: Public Domain
+## X-CompatibleLocales: deDE, enUS, esES, esMX, frFR, itIT, ptBR, koKR, ruRU, zhCN, zhTW
+## X-Website: http://www.wowinterface.com/downloads/info22735-PokeBandage
+## X-Curse-Project-Name: pokebandage
+## X-WoWI-ID:
+
+Addon.lua
