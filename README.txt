@@ -1,29 +1,35 @@
 PokéBandage
 ==============
 
-* Written by Phanx <addons@phanx.net>
-* http://www.wowinterface.com/downloads/info22735-PokeBandage
-* http://www.curse.com/addons/wow/pokebandage
-
-
-Description
---------------
-
 Adds a button to the pet journal for using Battle Pet Bandages. The new
 button is located directly to the left of the existing Revive Battle Pets
 button, and looks and acts much the same. There are no options.
 
 
+Download
+-----------
+
+* [WoWInterface](http://www.wowinterface.com/downloads/info22735)
+* [Curse](http://www.curse.com/addons/wow/pokebandage)
+
+
 Feedback
 -----------
 
-Post a comment on the WoWInterface download page.
+Post a ticket on either download site, or a comment on WoWInterface.
 
-If you are reporting a bug, please include detailed instructions I can
-follow to reproduce the bug myself, whether or not it still happens
-when all other addons are disabled, and the exact text of the first
-related error message (if any) from BugSack.
+If you are reporting a bug, please include directions I can follow to
+reproduce the bug, whether it still happens when all other addons are
+disabled, and the exact text of the related error message (if any) from 
+[BugSack](http://www.wowinterface.com/downloads/info5995-BugSack.html).
 
-Please do not contact me by email about addon bugs, suggestions, or
-questions, nor about general addon programming questions -- post a
-comment or forum thread instead!
+If you need to contact me privately, you can send me a private message
+on either download site, or email me at <addons@phanx.net>.
+
+
+License
+----------
+
+Copyright (c) 2014 Phanx. All rights reserved.  
+See the accompanying LICENSE file for information about the conditions
+under which redistribution and modification may be allowed.

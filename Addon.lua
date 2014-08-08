@@ -1,8 +1,8 @@
 --[[--------------------------------------------------------------------
 	PetBandageButton
-	by Phanx <addons@phanx.net>
 	Adds a button to the pet journal for using Battle Pet Bandages.
-	See the accompanying README and UNLICENSE files for more information.
+	Copyright (c) 2014 Phanx. All rights reserved.
+	See the accompanying README and LICENSE files for more information.
 	http://www.wowinterface.com/downloads/info22735-PetBandageButton
 	http://www.curse.com/addons/wow/petbandagebutton
 ----------------------------------------------------------------------]]
