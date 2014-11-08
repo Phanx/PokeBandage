@@ -1,10 +1,16 @@
 --[[--------------------------------------------------------------------
-	PetBandageButton
+	PokéBandage
 	Adds a button to the pet journal for using Battle Pet Bandages.
-	Copyright (c) 2014 Phanx. All rights reserved.
-	See the accompanying README and LICENSE files for more information.
-	http://www.wowinterface.com/downloads/info22735-PetBandageButton
-	http://www.curse.com/addons/wow/petbandagebutton
+	Copyright (c) 2014 Phanx <addons@phanx.net>. All rights reserved.
+	http://www.wowinterface.com/downloads/info22735-PokéBandage
+	http://www.curse.com/addons/wow/pokebandage
+
+	Please DO NOT upload this addon to other websites, or post modified
+	versions of it. However, you are welcome to use any/all of its code
+	in your own addon, as long as you do not use my name or the name of
+	this addon ANYWHERE in your addon, including in its name, outside of
+	an optional attribution. You are also welcome to include this addon
+	WITHOUT CHANGES in compilations posted on Curse and/or WoWInterface.
 ----------------------------------------------------------------------]]
 
 local ITEMID = 86143 -- Battle Pet Bandage
