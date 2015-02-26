@@ -1,5 +1,5 @@
-## Interface: 60000
-## Version: 6.0.2.10
+## Interface: 60100
+## Version: @project-version@
 
 ## Title: PokéBandage
 ## Notes: Adds a button to the pet journal for using Battle Pet Bandages.
@@ -9,7 +9,7 @@
 
 ## Author: Phanx
 ## X-Email: addons@phanx.net
-## X-Copyright: Copyright (c) 2014 Phanx. All rights reserved.
+## X-Copyright: Copyright (c) 2014-2015 Phanx. All rights reserved.
 ## X-Website: https://github.com/Phanx/PokeBandage
 
 Addon.lua
