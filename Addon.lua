@@ -108,7 +108,7 @@ loader:SetScript("OnEvent", function(self)
 
 	function f:UpdateCooldown()
 		local start, duration, enable = GetItemCooldown(ITEMID)
-		CooldownFrame_SetTimer(self.Cooldown, start, duration, enable)
+		CooldownFrame_Set(self.Cooldown, start, duration, enable)
 	end
 
 	function f:UpdateTooltip()
